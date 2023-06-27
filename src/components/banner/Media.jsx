@@ -24,7 +24,7 @@ const Media = () => {
           </div>
         </div>
         <div>
-          <h2 className="text-base uppercase font-titleFont mb-4">
+          <h2 className="text-base uppercase font-titleFont mb-4 mt-4FQuick Link">
             BEST SKILL ON
           </h2>
           <div className="flex gap-4">

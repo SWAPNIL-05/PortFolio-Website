@@ -22,7 +22,8 @@
 }
 
 .active {
-    color: white;
+    color:  rgb(255 1 79 / var(--tw-text-opacity));
+    font-size:18px;
 }
 .scrollbar-hide::-webkit-scrollbar{
     display: none;

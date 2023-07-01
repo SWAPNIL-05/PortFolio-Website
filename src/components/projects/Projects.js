@@ -1,6 +1,6 @@
 import React from 'react'
 import Title from '../layouts/Title'
-import { projectOne, projectTwo, projectThree } from "../../assets/index";
+import { projectTwo, projectThree } from "../../assets/index";
 import ProjectsCard from './ProjectsCard';
 
 const Projects = () => {
@@ -18,9 +18,8 @@ const Projects = () => {
       <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6 xl:gap-14">
         <ProjectsCard
           title="Factile"
-          des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-              Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
-          src={projectOne}
+          des="Factile is a free learning platform that lets teachers create engaging jeopardy-style quiz games for the classroom. It's free, easy and loads of fun!"
+          src="https://s3.amazonaws.com/factile-static/World+Geography+playfactile.png"
         />
         <ProjectsCard
           title="E-commerce Website"
@@ -41,16 +40,15 @@ const Projects = () => {
           src={projectThree}
         />
         <ProjectsCard
-          title="E-commerce Website"
-          des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-              Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
-          src={projectOne}
-        />
-        <ProjectsCard
           title="Chatting App"
           des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
               Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
           src={projectTwo}
+        />
+        <ProjectsCard
+          title="Factile"
+          des="Factile is a free learning platform that lets teachers create engaging jeopardy-style quiz games for the classroom. It's free, easy and loads of fun!"
+          src="https://s3.amazonaws.com/factile-static/World+Geography+playfactile.png"
         />
       </div>
     </section>

@@ -20,7 +20,6 @@ function App() {
         <Resume />
         <Testimonial />
         <Contact />
-        <Footer />
         <FooterBottom />
       </div>
     </div>

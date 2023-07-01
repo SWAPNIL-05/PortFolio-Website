@@ -20,7 +20,7 @@ const ContactLeft = () => {
          ReactJs Developer
         </p>
         <p className="text-base text-gray-400 tracking-wide">
-        I have over 1.5 years of experience as a highly skilled ReactJS developer with a focus on creating dynamic and interactive user interfaces.
+        I have over 2 years of experience as a highly skilled ReactJS developer with a focus on creating dynamic and interactive user interfaces.
         </p>
         <p className="text-base text-gray-400 flex items-center gap-2">
           Phone: <span className="text-lightText">+91 9923437568</span>

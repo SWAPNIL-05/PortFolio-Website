@@ -3,7 +3,7 @@ import Slider from "react-slick";
 import { RiStarFill } from "react-icons/ri";
 import { HiArrowRight, HiArrowLeft } from "react-icons/hi";
 import Title from '../layouts/Title'
-import { testimonialOne,testimonialTwo, quote } from "../../assets";
+import {quote } from "../../assets";
 
 
 function SampleNextArrow(props) {
@@ -103,16 +103,16 @@ const Testimonial = () => {
               <div className="w-full lgl:w-[35%] h-full bg-gradient-to-r from-[#1e2024] to-[#23272b] p-8 rounded-lg shadow-shadowOne flex flex-col md:flex-row lgl:flex-col gap-8 justify-center md:justify-start lgl:justify-center">
                 <img
                   className="h-72 md:h-32 lgl:h-72 rounded-lg object-cover"
-                  src={testimonialOne}
+                  src="https://img.freepik.com/premium-photo/business-per…-professional-growth-generative-ai_697880-752.jpg"
                   alt="testimonialOne"
                 />
                 <div className="w-full flex flex-col justify-end">
                   <p className="text-xs uppercase text-designColor tracking-wide mb-2">
-                    Bound - Trolola
+                    Smith & Co.
                   </p>
-                  <h3 className="text-2xl font-bold">Jone Duone Joe</h3>
+                  <h3 className="text-2xl font-bold"> Lily Chen</h3>
                   <p className="text-base tracking-wide text-gray-500">
-                    Operation Officer
+                   Virtual Project Coordinator
                   </p>
                 </div>
               </div>
@@ -122,10 +122,10 @@ const Testimonial = () => {
                   <div className="flex flex-col justify-between lgl:items-center py-6 border-b-2 border-b-gray-900">
                     <div>
                       <h3 className="text-xl lgl:text-2xl font-medium tracking-wide">
-                        Travel Mobile App Design.
+                        Travel Web App Design
                       </h3>
                       <p className="text-base text-gray-400 mt-3">
-                        via Upwork - Mar 4, 2015 - Aug 30, 2021 test
+                        via Upwork - Mar 4, 2021 - Aug 30, 2023 test
                       </p>
                     </div>
                     <div className="text-yellow-500 flex gap-1">
@@ -137,11 +137,7 @@ const Testimonial = () => {
                     </div>
                   </div>
                   <p className="text-base font-titleFont text-gray-400 font-medium tracking-wide leading-6">
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. A
-                    dolorum, eos natus ipsum numquam veniam officia
-                    necessitatibus ratione quos debitis exercitationem
-                    repudiandae facilis id neque nihil accusantium perspiciatis
-                    repellat? Iste.
+                     Absolutely joy to work with. I found then very supportive and creative in their field. It was easy to access management directly.
                   </p>
                 </div>
               </div>
@@ -154,16 +150,16 @@ const Testimonial = () => {
               <div className="w-full lgl:w-[35%] h-full bg-gradient-to-r from-[#1e2024] to-[#23272b] p-8 rounded-lg shadow-shadowOne flex flex-col md:flex-row lgl:flex-col gap-8 justify-center md:justify-start lgl:justify-center">
                 <img
                   className="h-72 md:h-32 lgl:h-72 rounded-lg object-cover"
-                  src={testimonialTwo}
+                  src="https://cdn.pixabay.com/photo/2023/02/24/00/41/ai-generated-7809880_960_720.jpg"
                   alt="testimonialTwo"
                 />
                 <div className="w-full flex flex-col justify-end">
                   <p className="text-xs uppercase text-designColor tracking-wide mb-2">
-                    Bound - Trolola
+                   Creative Solutions Inc
                   </p>
-                  <h3 className="text-2xl font-bold">Jone Duone Joe</h3>
+                  <h3 className="text-2xl font-bold">Ethan Johnson</h3>
                   <p className="text-base tracking-wide text-gray-500">
-                    Operation Officer
+                    Virtual Customer Support Representative
                   </p>
                 </div>
               </div>
@@ -173,10 +169,10 @@ const Testimonial = () => {
                   <div className="flex flex-col justify-between lgl:items-center py-6 border-b-2 border-b-gray-900">
                     <div>
                       <h3 className="text-xl lgl:text-2xl font-medium tracking-wide">
-                        Travel Mobile App Design.
+                       GreenScape EcoVillage
                       </h3>
                       <p className="text-base text-gray-400 mt-3">
-                        via Upwork - Mar 4, 2015 - Aug 30, 2021 test
+                        via Upwork - Mar 4, 2020 - Present
                       </p>
                     </div>
                     <div className="text-yellow-500 flex gap-1">
@@ -188,11 +184,7 @@ const Testimonial = () => {
                     </div>
                   </div>
                   <p className="text-base font-titleFont text-gray-400 font-medium tracking-wide leading-6">
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. A
-                    dolorum, eos natus ipsum numquam veniam officia
-                    necessitatibus ratione quos debitis exercitationem
-                    repudiandae facilis id neque nihil accusantium perspiciatis
-                    repellat? Iste.
+                  Your work has been nothing short of exceptional! Your attention to detail, organizational skills, and ability to meet deadlines have been instrumental in the success of our projects. Your commitment to excellence is truly commendable. Thank you for your outstanding contributions
                   </p>
                 </div>
               </div>
@@ -205,16 +197,16 @@ const Testimonial = () => {
               <div className="w-full lgl:w-[35%] h-full bg-gradient-to-r from-[#1e2024] to-[#23272b] p-8 rounded-lg shadow-shadowOne flex flex-col md:flex-row lgl:flex-col gap-8 justify-center md:justify-start lgl:justify-center">
                 <img
                   className="h-72 md:h-32 lgl:h-72 rounded-lg object-cover"
-                  src={testimonialOne}
+                  src="https://img.freepik.com/premium-photo/old-business…-smile-as-he-works-his-laptop-cafe_271410-101.jpg"
                   alt="testimonialOne"
                 />
                 <div className="w-full flex flex-col justify-end">
                   <p className="text-xs uppercase text-designColor tracking-wide mb-2">
-                    Bound - Trolola
+                   Serene Spa Retreat
                   </p>
-                  <h3 className="text-2xl font-bold">Jone Duone Joe</h3>
+                  <h3 className="text-2xl font-bold">Ava Smith</h3>
                   <p className="text-base tracking-wide text-gray-500">
-                    Operation Officer
+                    Marketing Manager
                   </p>
                 </div>
               </div>
@@ -224,10 +216,10 @@ const Testimonial = () => {
                   <div className="flex flex-col justify-between lgl:items-center py-6 border-b-2 border-b-gray-900">
                     <div>
                       <h3 className="text-xl lgl:text-2xl font-medium tracking-wide">
-                        Travel Mobile App Design.
+                       Elevatax Sam
                       </h3>
                       <p className="text-base text-gray-400 mt-3">
-                        via Upwork - Mar 4, 2015 - Aug 30, 2021 test
+                        via Fiverr - Jan 4, 2020 - Aug 30, 2021 
                       </p>
                     </div>
                     <div className="text-yellow-500 flex gap-1">
@@ -239,11 +231,7 @@ const Testimonial = () => {
                     </div>
                   </div>
                   <p className="text-base font-titleFont text-gray-400 font-medium tracking-wide leading-6">
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. A
-                    dolorum, eos natus ipsum numquam veniam officia
-                    necessitatibus ratione quos debitis exercitationem
-                    repudiandae facilis id neque nihil accusantium perspiciatis
-                    repellat? Iste.
+                   Your prompt and efficient assistance has been invaluable to our customers. Your professionalism and commitment to providing top-notch support deserve a five-star rating. Keep up the great work!"
                   </p>
                 </div>
               </div>

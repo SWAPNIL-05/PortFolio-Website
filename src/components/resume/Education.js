@@ -20,19 +20,20 @@ const Education = () => {
             title="Master Of Computer Application"
             subTitle="Gujarat Technological University(2020 - 2023)"
             result="8.15/10"
-            des="Higher education is tertiary education leading to award of an academic degree. Higher education, also called post-secondary education."
+            des="I hold a Master of Computer Applications (MCA) degree with a strong focus on software development,
+             database management, and system analysis."
           />
           <ResumeCard
             title="Bachelor Of Computer Application"
             subTitle="North Maharashtra University(2017 - 2020)"
             result="9.24/10"
-            des="The training provided by universities in order to prepare people to work in various sectors of the economy or areas of culture."
+            des="My BCA education has provided me with a comprehensive understanding of various programming languages, software development methodologies, and computer networks."
           />
           <ResumeCard
             title="Higher Secondary School Certificate"
             subTitle="Pratap College(2015 - 2017)"
             result="72.48%"
-            des="Secondary education or post-primary education covers two phases on the International Standard Classification of Education scale."
+            des="Developed analytical and problem-solving skills through complex mathematical calculations."
           />
         </div>
       </div>
@@ -48,19 +49,19 @@ const Education = () => {
             title="ReactJs Developer"
             subTitle="Algoscript Software Pvt. Ltd - (Mar/2022  - Present)"
             result="Surat"
-            des="Google's hiring process is an important part of our culture. Googlers care deeply about their teams and the people who make them up."
+            des="Developed an online trivia game platform enabling users to design game boards, select game types, and play with friends or online opponents."
           />
           <ResumeCard
             title="Computer Science Expert"
             subTitle="Chegg India - (Sept/2021 - Present)"
             result="Remote"
-            des="A popular destination with a growing number of highly qualified homegrown graduates, it's true that securing a role in Malaysia isn't easy."
+            des="Provide expert-level guidance to students on computer science-related topics by answering their questions online."
           />
           <ResumeCard
             title="ReactJs InterShip"
             subTitle="Tagline Infotech LLP - (Jan/2022 - Feb/2022)"
             result="Surat"
-            des="The Oman economy has grown strongly over recent years, having transformed itself from a producer and innovation-based economy."
+            des="Built personal mini projects to gain hands-on experience with React.js and improve my skills."
           />
         </div>
       </div>

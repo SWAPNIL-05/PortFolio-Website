@@ -1,6 +1,6 @@
 import React from 'react'
 import Title from '../layouts/Title'
-import { projectTwo, projectThree } from "../../assets/index";
+import { projectTwo } from "../../assets/index";
 import ProjectsCard from './ProjectsCard';
 
 const Projects = () => {
@@ -19,36 +19,22 @@ const Projects = () => {
         <ProjectsCard
           title="Factile"
           des="Factile is a free learning platform that lets teachers create engaging jeopardy-style quiz games for the classroom. It's free, easy and loads of fun!"
-          src="https://s3.amazonaws.com/factile-static/World+Geography+playfactile.png"
+          src="https://edshelf.com/wp-content/uploads/2014/09/screenshot-factile-1.png"
         />
         <ProjectsCard
           title="E-commerce Website"
-          des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-              Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
+          des="It facilitates the transaction between a buyer and seller. It is the virtual space where you showcase products, and online customers make selections. Your website acts as the product shelve and cash register of your online business channel!"
           src={projectTwo}
         />
         <ProjectsCard
           title="Chatting App"
-          des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-              Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
-          src={projectThree}
-        />
-        <ProjectsCard
-          title="SOCIAL MEDIA CLONE"
-          des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-              Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
-          src={projectThree}
-        />
-        <ProjectsCard
-          title="Chatting App"
-          des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-              Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
-          src={projectTwo}
+          des="Users can engage in conversations effortlessly, fostering meaningful and interactive communication."
+          src="https://cdn.dribbble.com/userupload/2816389/file/original-f627dc439b3ed7f2c88e9dd61c2b2cc3.png?resize=400x0"
         />
         <ProjectsCard
           title="Factile"
           des="Factile is a free learning platform that lets teachers create engaging jeopardy-style quiz games for the classroom. It's free, easy and loads of fun!"
-          src="https://s3.amazonaws.com/factile-static/World+Geography+playfactile.png"
+          src="https://edshelf.com/wp-content/uploads/2014/09/screenshot-factile-1.png"
         />
       </div>
     </section>

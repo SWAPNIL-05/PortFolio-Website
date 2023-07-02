@@ -19,19 +19,19 @@ const Experience = () => {
             title="ReactJs Developer"
             subTitle="Algoscript Software Pvt. Ltd - (Mar/2022  - Present)"
             result="Surat"
-            des="Google's hiring process is an important part of our culture. Googlers care deeply about their teams and the people who make them up."
+            des="Developed an online trivia game platform enabling users to design game boards, select game types, and play with friends or online opponents."
           />
           <ResumeCard
             title="Computer Science Expert"
             subTitle="Chegg India - (Sept/2021 - Present)"
             result="Remote"
-            des="A popular destination with a growing number of highly qualified homegrown graduates, it's true that securing a role in Malaysia isn't easy."
+            des="Provide expert-level guidance to students on computer science-related topics by answering their questions online."
           />
           <ResumeCard
             title="ReactJs InterShip"
             subTitle="Tagline Infotech LLP - (Jan/2022 - Feb/2022)"
             result="Surat"
-            des="The Oman economy has grown strongly over recent years, having transformed itself from a producer and innovation-based economy."
+            des="Built personal mini projects to gain hands-on experience with React.js and improve my skills."
           />
         </div>
       </div>

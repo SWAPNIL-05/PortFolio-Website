@@ -17,7 +17,7 @@
     "slick-carousel": "^1.8.1",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://SWAPNIL-05.github.io/PortFolio-Website",
+  "homepage": "https://SWAPNIL-05.github.io/moreswapnil",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
